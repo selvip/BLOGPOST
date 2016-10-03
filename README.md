@@ -1,0 +1,2 @@
+# BLOGPOST
+BLOGPOST - Static html
